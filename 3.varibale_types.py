@@ -15,7 +15,7 @@ UserFirstName = 'Hey Sushil'
 myFirstName = user_first_name
 first_name = 'Hey'
 middle_name = 'Sushil'
-last-name = 'Hey'
+last_name = 'Hey'
 
 # 1a = 1
 # a123 = 1
