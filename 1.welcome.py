@@ -1,6 +1,5 @@
 '''
 Python ke basic points:
-
 1. Hame jab bhi ouput dekhna hai to hame print() method use karn ahi.
 2. Jab bhi hame usser se input lena hai to hame input() method use karna hai.
 3. Python ke andar hum intentation follow karte hain. Matlab ki faltu me ham koi bhi space nahi de sakte hain. Aysa karne ke hame intentation ka error milega.
@@ -9,7 +8,7 @@ Python ke basic points:
 # input process output
 
 # print() - ye outut method
-print('\nHello Python')
+ print('\nHello Python')
 
 # input method
 name = input('Enter your name: ')
@@ -39,17 +38,11 @@ comment hai. isme double quoute ka use kiya gaya hai.
 '''
 Web Development
 Wordpress / Wix
-
 Data Sci.
     scipy / matplotlib / opencv
-
 Data Anl.
-
 Image Processing: CDC
-
 Software
-
-
 () {} [] , . ;
 '''
 
