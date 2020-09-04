@@ -13,7 +13,7 @@ print('\nHello Python')
 
 # input method
 name = input('Enter your name: ')
-print(name)
+print('\n', name)
 
 # comment in python
 
@@ -32,3 +32,28 @@ multi
 line
 comment hai. isme double quoute ka use kiya gaya hai.
 """
+
+
+
+
+'''
+Web Development
+Wordpress / Wix
+
+Data Sci.
+    scipy / matplotlib / opencv
+
+Data Anl.
+
+Image Processing: CDC
+
+Software
+
+
+() {} [] , . ;
+'''
+
+# show output using print() method
+# name = 'Python'
+# print('Hello Python')
+
