@@ -8,7 +8,7 @@ Python ke basic points:
 # input process output
 
 # print() - ye outut method
- print('\nHello Python')
+print('\nHello Python')
 
 # input method
 name = input('Enter your name: ')
@@ -49,4 +49,4 @@ Software
 # show output using print() method
 # name = 'Python'
 # print('Hello Python')
-
+print('Hello')
