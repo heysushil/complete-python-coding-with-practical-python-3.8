@@ -17,7 +17,9 @@ first_name = 'Hey'
 middle_name = 'Sushil'
 last_name = 'Hey'
 
+# Yaha par SyntaxError: invalid syntax mil raha hai.
 # 1a = 1
+
 # a123 = 1
 # a_num = 1
 # a-num = 1
