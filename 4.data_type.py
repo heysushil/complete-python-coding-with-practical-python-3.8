@@ -26,6 +26,8 @@ Array Syntax: Note: It's not part of Python
 Extra Study:
 
 1. What is array and index array?
+[11,22,33,44]
+  0  1  2  3
 2. What is associative array?
 3. What is object?
 4. What is the difference b/t list, tuple, dict and set

@@ -1,5 +1,6 @@
 # integer
 a = 5 + 1000 + 200
+# use type() method to check datatype of varible
 print('\nType: ', type(a))
 print('\nA: ', a)
 
@@ -17,7 +18,8 @@ print('\na = a + 0j: ', a)
 
 a = 5
 b = float(a)
+# print(b)
 c = complex(b)
 
 d = int(c)
-e = float(c)
+# e = float(c)

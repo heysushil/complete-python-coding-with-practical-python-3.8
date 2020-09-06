@@ -1,13 +1,13 @@
 # single line stirng
 name = 'Python Progamming'
 name = "Python Progamming"
-
-print('\nName: ', name)
+welcome = '\nName: '
+print(welcome, name)
 
 # multiline string
 multilineString = '''
-Microsoft Windows [Version 10.0.20197.1000]
-(c) 2020 Microsoft Corporation. All rights reserved.
+        Microsoft Windows [Version 10.0.20197.1000]
+    (c) 2020 Microsoft Corporation. All rights reserved.
 
 Name:  Python Progamming
 '''
@@ -36,6 +36,11 @@ name = 'poornima9'
 print('\nUser title: ', name.title())
 print('\nCapital: ', name.upper())
 print('\nCheck sting: ', name.isalpha())
+print('\nCheck sting: ', name.isalnum())
+
+name = 'Hi Python'
+getInList = name.split(' ')
+print('\n', getInList)
 
 '''
 Question to do:
