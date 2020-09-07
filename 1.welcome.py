@@ -1,4 +1,3 @@
-# @heysushil
 '''
 Python ke basic points:
 1. Hame jab bhi ouput dekhna hai to hame print() method use karn ahi.
