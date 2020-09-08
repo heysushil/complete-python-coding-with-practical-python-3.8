@@ -78,5 +78,7 @@ Question:
 
 4. Find the length of list?
 
-5. 
+5. Ek list bana hai jisme ki input ka use karke apne friends ke name insert karne hain.
+
+6. Jo friend list banai hai usme se app kisi bhi friend ka name remove karna cahte ho aur aysa karne ke liye app input method ka use karke ye kaam karoge.
 '''
