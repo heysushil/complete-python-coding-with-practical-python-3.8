@@ -66,5 +66,7 @@ Questions:
 
 2. Set bana hain and set ko clear karna hain then usko delete kar dena hai.
 
-3. Ek set bana
+3. 3 set banae hai aur inpar union, intersection, diffence activity perform karna hai.
+
+4. Set ke baki sabhi methods ko check karna hai and try karn hai.
 '''
