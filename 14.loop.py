@@ -92,6 +92,15 @@ myclass = ['ram','shyam','hari']
     
 
 '''
+While loop programs:
+
+1. 1 to 10 Number print karna hai.
+
+2. 1 to 50 number print karna hai but jab 25 number mile to hame ek alg print message show karn hai 25 numbre ke liye using condtion.
+
+3. Ek list create karo aur usme apne friedns ka name include karo then agar first friend aaye to usko hello hi message show karna hai. Second friend aaye to usse colleage ke bareme puchna hai. Thired fried aaye to susse jo man kare wo puch lena. Yaha par multiple condtion ka use karna hai. Sath me isme sabhi friend ko while loop karne ke show karn hai.
+
+4. Ek list create karna hai jisme ki alphabets honge aur unko while loop ka use karke print karna hai but jab bhi koi vovel aaye to usko batan hai. Yaha par while loop and condtion use hoga. Yaha par single if condtion me ye kaam karna hai iske liye multiple condtion nahi use karna hai.
 
 5. While loop ka use kar ke 2 ka table (pahada) print karan hai.
 
