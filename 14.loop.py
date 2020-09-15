@@ -54,10 +54,10 @@ If aur while loop me difference?
 '''
 
 # while loop
-i = 1
-while i <= 10:
+i = 2
+while i <= 20:
     print(i)
-    i += 1 # i = i + 1
+    i += 2 # i = i + 1
 
 # string ko loop me print karna
 name = 'Hindi'
@@ -81,14 +81,18 @@ myclass = ['ram','shyam','hari']
 #     c += 1
 
 # use with continu
-# m = 0
-# while m < len(myclass):
-#     print(myclass[m])
-#     m += 1
-#     # use codntion with break
-#     if 'shyam' == myclass[m]:
-#         # print('Hello, ', myclass[m], ' show your homework.')
-#         continue
+mynum = 0
+print('3\'s Table')
+while mynum <= 27:
+    mynum += 3
+    # check 15 number then skip it
+    if mynum == 15:
+        continue
+    
+    print(mynum)
+else:
+    print('WHile loop is end')
+
     
 
 '''
@@ -112,4 +116,9 @@ While loop programs:
     Like as:
         name => yourname
         and so on.....
+
+Extra Question:
+
+1. What is preincrement and post-incremet or decrement
+2. do-while loop ka kya work hai aur ye kya karta hai. Yaad rahe ki ye python me nahi hota hai.
 '''
