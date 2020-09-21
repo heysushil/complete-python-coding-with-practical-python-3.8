@@ -58,7 +58,7 @@ def myFirstFunction():
     for r in range(1, 11):
         mysum += r
         print(r ,' : ', mysum)
-
+updates
 # fucntion call
 myFirstFunction()
 
