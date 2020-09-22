@@ -33,6 +33,7 @@ def mysumFun(num1, num2):
 resutl = mysumFun(50, 100)
 print('\nNormal result: ', mysumFun(50, 100))
 
+
 '''
 Question:
 
