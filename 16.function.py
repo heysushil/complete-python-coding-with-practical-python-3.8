@@ -48,6 +48,33 @@ Static aur dynamic values ka matlab:
 2. Dynamic values means jab hum user input ke through valeus recive karte hain use time user kuch bhi values de sakta hain.
 '''
 
+def user(name):
+    data = 'Hello' + name
+    return data
+
+def mydata():
+    print('\nanother function')
+
+response = input('Enter y/n: ')
+
+if response == 'y':
+    name = user('Python')
+    print('\nName: ', name)
+    next = input('Enter next y/n: ')
+    if next == 'y':
+        mydata()
+elif response == 'n':
+    print('Nothing')
+else:
+    print('No data')
+
+
+
+
+
+exit()
+
+
 # Function without arguments & without return value
 
 # function definition | Yaha par hum fucntion ko define kar rahe hain. Yad rahe ye fucntion jab tak call nahi kiya jayega tub tak useme me nahi aayega
