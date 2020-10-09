@@ -1,4 +1,4 @@
-# Python Course Training
+# Python Course Training with Hey Sushil
 
 For installing python and vs code editor:
 
