@@ -3,6 +3,13 @@
 > Note: Ye project pyhton basic concpts ka use kar ke bana hai.
 > Note: Yaha par aapko fucntion ka hi use karna hai. Otherwise aapka kam nahi ho payega.
 
+## Total work jo project me karna hai:
+
+1. Register student
+1. Show student
+1. Add student marks
+1. Show student result
+
 ## Student admistion section
 
 1. Sabse pahle student ka registration karna hai. Jisme ki following details student se leni hai:
