@@ -1,4 +1,8 @@
 # function for creating file
+# myfile = open('myname1.txt', 'x')
+# print(bool(myfile))
+# exit()
+
 def createFile(fileName):
     try:
         myfile = open('file_handling/demo/' + fileName + '.txt', 'x')
